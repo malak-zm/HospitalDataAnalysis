@@ -1,0 +1,12 @@
+env/
+Lib/
+Scripts/
+share/
+etc/
+include/
+Library/
+conda-meta/
+DLLs/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
